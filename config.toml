@@ -1,13 +1,13 @@
-base_url = "https://YOUR_URL.TLD"
-title = "site title"
-description = "YOUR_SITE_DESCRIPTION"
-author = "YOUR_NAME"
+base_url = "https://memoriacutral.libre.net.ar"
+title = "Memoria Cutral Có"
+description = "Mapa interactivo, diseñado por el taller de relatos Ruka Chillca junto a KAÜ CULTURA. Durante mayo 2025 a la actualidad"
+author = "Ruka Chillca"
 theme = "tabi"
 generate_feeds = true
 compile_sass = true
 minify_html = true
 build_search_index = true
-default_language = "en"
+default_language = "es"
 taxonomies = [{name = "tags", feed = true}]
 
 
