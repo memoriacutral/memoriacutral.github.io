@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://memoriacutral.libre.net.ar/sitemap_style.xsl" type="text/xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/archive/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/blog/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/blog/hello/</loc>
+        <lastmod>2093-02-16</lastmod>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/projects/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/projects/cool-project/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/tags/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/tags/demo/</loc>
+    </url>
+    <url>
+        <loc>https://memoriacutral.libre.net.ar/tags/meta/</loc>
+    </url>
+</urlset>
